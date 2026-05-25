@@ -1,0 +1,6 @@
+{
+  "name": "Masjid Management App",
+  "description": "A serene, clean, and spiritually styled management application for local mosques to coordinate prayer times, track funds, and manage staff salary ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,26 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Mosque Dome top component in Gold -->
+    <path
+        android:fillColor="#CE9E24"
+        android:pathData="M54,18 L54,25 M51,25 L57,25 M54,25 C50,31 42,34 42,42 L66,42 C66,34 58,31 54,25 Z" />
+        
+    <!-- Main Mosque Building base in clean White -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M34,42 L74,42 L74,74 C74,78 70,82 66,82 L42,82 C38,82 34,78 34,74 Z" />
+        
+    <!-- Main Entrance Door silhouette in deep Emerald Green -->
+    <path
+        android:fillColor="#005B41"
+        android:pathData="M48,82 L48,64 C48,60 51,57 54,57 C57,57 60,60 60,64 L60,82 Z" />
+
+    <!-- Noble Crescent star in pure Gold offset -->
+    <path
+        android:fillColor="#CE9E24"
+        android:pathData="M54,28 A4.5,4.5 0 1,0 58.5,32.5 A3.8,3.8 0 1,1 54,28 Z" />
+</vector>
